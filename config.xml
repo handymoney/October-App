@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>To-do List</name>
+    <description>
+        An app that store task in order to be finish and serve as a reminder.
+    </description>
+    <author email="joshua.vargas18@yahoo.com" href="http://yahoo.com">
+        KTG 
+    </author>
+    <icon src="icon.png" />
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
